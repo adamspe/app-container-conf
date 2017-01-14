@@ -1,0 +1,14 @@
+{
+    "database" : {
+        "host": "localhost",
+        "port": 27017,
+        "db": "my-db",
+        "options": {
+            "user": "joe",
+            "pass": "sesame"
+        }
+    },
+    "resources": {
+        "$apiRoot": "/api/v1"
+    }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "app-container-conf",
+  "version": "1.0.0",
+  "description": "shared container configuration",
+  "author": "adamspe@gmail.com",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamspe/app-container-conf.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adamspe/app-container-conf/issues"
+  },
+  "homepage": "https://github.com/adamspe/app-container-conf#readme",
+  "dependencies": {
+    "nconf": "^0.8.4"
+  },
+  "devDependencies": {
+    "should": "^11.1.2"
+  }
+}
